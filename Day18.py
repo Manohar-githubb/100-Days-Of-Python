@@ -61,8 +61,8 @@
 # tim=t.Turtle()
 # colors=["red","green","yellow","orange","blue","purple"]
 # directions=[0,90,180,270]
-# tim.pensize(15)             #size of that turtle pointer
-# tim.speed("fastest")        #speed of the movement 
+# tim.pensize(2)             #size of that turtle pointer
+# tim.speed("slow")        #speed of the movement 
 
 # for _ in range(200):
 #     tim.color(random.choice(colors))
